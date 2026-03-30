@@ -66,3 +66,8 @@ Download the .pbix file
 Open in Power BI Desktop
 
 Explore using filters and visuals
+
+
+image
+<img width="1361" height="781" alt="Screenshot 2026-03-30 213745" src="https://github.com/user-attachments/assets/5bcc8f98-e47b-4c5a-96b3-8fd32547fdfe" />
+
